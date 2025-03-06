@@ -1,10 +1,3 @@
-
----
-
-## **3. Python Code: `rps_game.py`**  
-This code implements a game in which **the player enters his choice** and **the computer chooses randomly**.
-
-```python
 import random
 
 def get_computer_choice():
